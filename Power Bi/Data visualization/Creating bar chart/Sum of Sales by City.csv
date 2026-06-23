@@ -1,0 +1,532 @@
+﻿City,Sum of Sales
+New York City,256368.161
+Los Angeles,175851.341
+Seattle,119540.742
+San Francisco,112669.092
+Philadelphia,109077.013
+Houston,64504.7604
+Chicago,48539.541
+San Diego,47521.029
+Jacksonville,44713.183
+Springfield,43054.342
+Detroit,42446.944
+Columbus,38706.243
+Newark,28576.119
+Columbia,25283.324
+Lafayette,25036.2
+Jackson,24963.858
+San Antonio,21843.528
+Burlington,21668.082
+Arlington,20214.532
+Dallas,20131.9322
+Lakewood,18192.047
+Richmond,18137.93
+Henderson,17549.068
+Atlanta,17197.84
+Minneapolis,16870.54
+Providence,15980.65
+Charlotte,13693.339
+Long Beach,13455.03
+Louisville,12345.806
+Denver,12198.793
+Aurora,11656.478
+Milwaukee,11410.22
+Franklin,11257.037
+Phoenix,11000.257
+Concord,10542.402
+Lancaster,9891.464
+North Las Vegas,9801.002
+Fairfield,9483.858
+Indianapolis,9306.42
+Huntsville,9194.9868
+Buffalo,9063.496
+Miami,8673.0745
+Anaheim,7986.87
+Rochester,7974.53
+Fresno,7888.5285
+Yonkers,7657.666
+Lawrence,7654.192
+Florence,7621.72
+Sacramento,7311.278
+Wilmington,7297.061
+Tallahassee,7250.669
+Fayetteville,6925.926
+Roswell,6652.32
+Fort Worth,6602.7064
+Oklahoma City,6596.82
+Pasadena,6590.146
+Decatur,6544.293
+Cleveland,6346.185
+Tucson,6313.016
+Omaha,6312.53
+Baltimore,6156.842
+San Jose,6071.229
+Nashville,6070.863
+Austin,6057.982
+Chesapeake,5996.72
+Oakland,5964.418
+Memphis,5942.341
+Virginia Beach,5752.13
+Everett,5665.734
+Lakeland,5606.8865
+Tulsa,5556.97
+Alexandria,5519.57
+Clinton,5514.251
+Des Moines,5463.278
+Mobile,5462.99
+Madison,5346.79
+Midland,5291.512
+Tampa,5196.0805
+Brentwood,5090.114
+Morristown,5033.1
+Fort Lauderdale,4929.5325
+Dover,4878.074
+Round Rock,4854.0528
+Lowell,4837.93
+Jamestown,4708.79
+Great Falls,4605.58
+Plainfield,4526.85
+Raleigh,4507.54
+Troy,4507.091
+Toledo,4466.053
+Harrisonburg,4388.71
+Oceanside,4350.738
+Santa Barbara,4289.234
+Lakeville,4260.95
+Gilbert,4172.382
+Portland,4051.869
+Watertown,4044.998
+Mesa,4037.74
+Cranston,4024.916
+Knoxville,3928.166
+Kenosha,3906.73
+Parma,3879.756
+Westminster,3826.646
+Bellingham,3790.24
+Amarillo,3773.0628
+Montgomery,3722.73
+Colorado Springs,3694.009
+Roseville,3588.626
+Little Rock,3560.35
+El Paso,3546.064
+Plano,3530.3746
+Inglewood,3479.328
+Salem,3444.245
+Marion,3369.346
+Santa Ana,3366.31
+Newport News,3321.95
+Burbank,3247.158
+Smyrna,3238.889
+Rockford,3166.228
+Auburn,3155.168
+Torrance,3132.268
+Noblesville,3091.18
+Waynesboro,3058.77
+Orem,2994.088
+Monroe,2970.434
+Marietta,2938.62
+Glendale,2917.865
+Jonesboro,2915.32
+Redlands,2891.021
+Washington,2865.02
+Provo,2761.234
+Akron,2729.986
+Hampton,2722.26
+Hempstead,2589.586
+Beverly,2583.19
+Sparks,2561.96
+Huntington Beach,2527.82
+Edmonds,2523.692
+Medina,2477.722
+Broken Arrow,2439.53
+Warwick,2426.84
+Independence,2417.37
+Greensboro,2406.78
+Dublin,2401.16
+Hialeah,2338.949
+Paterson,2243.21
+Albuquerque,2220.16
+Clarksville,2217.73
+Pasco,2201.112
+Carrollton,2200.646
+Pleasant Grove,2138.178
+Gresham,2133.424
+Manchester,2126.28
+Mount Vernon,2119.632
+Greenville,2117.83
+Bowling Green,2077.375
+San Gabriel,2061.01
+Westland,2057.976
+Apple Valley,2053.021
+Chico,2050.178
+Highland Park,2035.096
+Spokane,2027.918
+Lorain,2015.111
+Sandy Springs,1997.03
+Chester,1968.479
+Redondo Beach,1959.803
+Wheeling,1946.966
+Riverside,1944.246
+Belleville,1891.6
+Peoria,1842.832
+Las Vegas,1834.02
+Georgetown,1786.42
+Trenton,1765.195
+Evanston,1753.799
+Orlando,1740.08
+Hattiesburg,1722.84
+Muskogee,1721.7
+Athens,1720.81
+Perth Amboy,1717.08
+Pembroke Pines,1714.3755
+Kent,1697.556
+Saint Petersburg,1690.792
+Bethlehem,1689.634
+Dubuque,1687.3
+Pueblo,1686.938
+Appleton,1671.31
+Greenwood,1665.05
+Saint Charles,1659.65
+Eau Claire,1645.65
+Lake Forest,1625.536
+Cincinnati,1611.976
+Lansing,1610.286
+Dearborn,1603.31
+Cheyenne,1603.136
+Suffolk,1597.9
+Bloomington,1567.74
+Passaic,1562.086
+Oxnard,1558.1
+Meriden,1550.68
+Pharr,1540.708
+Miramar,1531.192
+Lehi,1516.726
+Costa Mesa,1497.67
+Des Plaines,1493.212
+Pomona,1482.502
+Asheville,1475.376
+Camarillo,1467.5175
+Scottsdale,1466.307
+Eugene,1465.032
+Hackensack,1456.16
+Southaven,1455.39
+Plantation,1436.836
+Bossier City,1417.18
+Tamarac,1413.51
+Tigard,1393.782
+Bakersfield,1377.29
+Norman,1351.33
+Pocatello,1344.942
+Saint Cloud,1331.82
+Waterbury,1326.06
+Carol Stream,1305.81
+Superior,1299.73
+Brownsville,1292.2268
+Richardson,1288.464
+Naperville,1288.303
+Quincy,1276.459
+Moreno Valley,1262.466
+New Rochelle,1255.228
+Bristol,1251.182
+Renton,1242.632
+South Bend,1238.33
+Stockton,1227.6
+Vallejo,1221.41
+Hesperia,1213.1715
+Danville,1202.254
+Bangor,1164.45
+Middletown,1154.61
+Twin Falls,1148.806
+Woodstock,1143.9
+Sioux Falls,1137.42
+Fremont,1119.01
+Rio Rancho,1114.192
+Redmond,1098.257
+Boise,1094.47
+Chandler,1076.747
+Hollywood,1070.474
+Tempe,1070.302
+Parker,1067.942
+Lawton,1057.49
+La Porte,1051.732
+Dearborn Heights,1051.57
+Chula Vista,1041.62
+Laredo,1024.34
+Olympia,1020.448
+Grand Prairie,1012.486
+Chattanooga,988.803
+San Bernardino,979.3
+Odessa,976.124
+Milford,961.74
+Edmond,959.55
+Avondale,946.808
+Fort Collins,935.252
+Fargo,919.91
+Longmont,915.088
+Apopka,904.554
+Olathe,895.79
+Gastonia,895.06
+Deltona,893.24
+Elmhurst,891.628
+Ann Arbor,889.273
+Maple Grove,882.87
+Durham,879.96
+League City,875.368
+Reading,873.712
+Mcallen,866.716
+El Cajon,865.616
+Allentown,853.252
+Yuma,840.865
+Revere,833.26
+Buffalo Grove,831.399
+La Crosse,830.41
+Wichita,825.27
+Coral Springs,824.992
+Canton,818.13
+York,817.978
+Temecula,808.666
+Salt Lake City,802.776
+Broomfield,793.504
+Texas City,790.972
+Mishawaka,776.24
+Mission Viejo,775.986
+Johnson City,765.848
+Thornton,765.248
+Kissimmee,751.984
+Freeport,739.15
+Port Arthur,737.0528
+Salinas,728.891
+Farmington,718.72
+Saint Peters,697.16
+Mentor,693.13
+Vancouver,686.836
+Park Ridge,685
+Utica,655.04
+Texarkana,654.24
+San Angelo,650.636
+Vineland,647.966
+Reno,644.062
+Sunnyvale,636.21
+Bryan,616.656
+Woodbury,607.65
+Overland Park,606.91
+Waco,606.1072
+Irving,605.5
+Lubbock,592.564
+Encinitas,591.981
+Oak Park,591.052
+Skokie,568.832
+Mount Pleasant,563.08
+Mansfield,558.877
+Lake Charles,547.41
+Morgan Hill,545.01
+Moorhead,543.86
+Rome,534.852
+Green Bay,527.32
+Grand Rapids,526.13
+Hoover,525.85
+Westfield,519.72
+Cary,505.208
+Arvada,503.4
+Coon Rapids,503.13
+Cambridge,502.09
+Pearland,494.996
+Lebanon,488.896
+Missoula,487.984
+Murrieta,484.65
+Beaumont,472.116
+Harlingen,471.404
+Rockville,469.77
+Boynton Beach,469.585
+Caldwell,455.632
+Manteca,452.182
+Whittier,444.768
+Helena,443.84
+Andover,435.85
+Warner Robins,434.8
+Vacaville,423.28
+Carlsbad,419.34
+Norwich,414.04
+Covington,413.68
+Murray,410.938
+Summerville,406.94
+Gaithersburg,405.92
+Saginaw,395.86
+Lincoln Park,387.602
+East Orange,377.27
+Wilson,368.732
+La Mesa,367.53
+Normal,366.744
+Macon,364.01
+Taylor,353.7
+Tyler,347.206
+Orland Park,339.96
+Murfreesboro,337.333
+Clifton,336.82
+Redding,333.576
+Meridian,329.052
+Hamilton,328.224
+Modesto,326.15
+Oswego,321.978
+Hendersonville,319.538
+Visalia,318.78
+Wausau,317.48
+Garden City,312.38
+West Jordan,311.85
+Conway,301.96
+Holyoke,301.96
+College Station,291.042
+Laguna Niguel,290.983
+Allen,290.206
+Saint Louis,285.96
+North Charleston,284.25
+Lake Elsinore,283.92
+Ontario,283.92
+Logan,280.276
+Cedar Rapids,278.4
+Palm Coast,274.428
+Manhattan,273.96
+Daytona Beach,272.3315
+Haltom City,269.328
+East Point,268.4
+Woodland,264.662
+Draper,263.65
+West Allis,250.48
+Port Saint Lucie,248.95
+Hot Springs,245.83
+Delray Beach,242.536
+Kirkwood,241.34
+Thousand Oaks,238.804
+New Bedford,235.97
+Rancho Cucamonga,231.852
+Malden,228.38
+Bedford,226.256
+Sanford,225.546
+Santa Clara,222.192
+Corpus Christi,220.544
+Bolingbrook,218.308
+Leominster,217.49
+Eagan,214.28
+Pine Bluff,212.91
+Orange,211.11
+New Albany,209.55
+Marlborough,206.64
+Niagara Falls,199.842
+Woonsocket,195.55
+Saint Paul,192.83
+Bayonne,183.4
+Tuscaloosa,175.7
+Elkhart,171.43
+Gulfport,166.5
+Gladstone,164.34
+Coachella,163.55
+Glenview,158.376
+Rapid City,152.64
+Laurel,152.59
+Champaign,151.96
+Thomasville,151.292
+Urbandale,149.12
+Commerce City,146.352
+Pico Rivera,145.9
+Cottage Grove,144.36
+The Colony,142.16
+West Palm Beach,141.328
+Holland,137.86
+Lodi,136.98
+Coppell,135.936
+Homestead,132.552
+Rochester Hills,132.52
+Citrus Heights,129.39
+Englewood,124.056
+Grove City,123.588
+Cedar Hill,122.376
+Longview,119.21
+Palatine,116.312
+Lewiston,115.664
+Santa Maria,115.44
+Linden,115.36
+Conroe,111.672
+Clovis,111.42
+Sterling Heights,110.04
+San Marcos,108.444
+Bellevue,103.622
+Charlottesville,102.61
+Marysville,102.18
+Santa Fe,100.92
+Las Cruces,98.77
+Frankfort,97.632
+Melbourne,95.616
+Escondido,94.548
+Mason,94.264
+Pompano Beach,90.44
+Medford,90.218
+San Clemente,90.058
+Kenner,89.32
+Bartlett,88.96
+Edinburg,88.276
+Hillsboro,87.838
+Jefferson City,86.62
+New Castle,84.61
+Sheboygan,79.74
+Sierra Vista,76.072
+San Mateo,75.18
+Shelton,73.33
+Littleton,72.294
+Owensboro,71.18
+Garland,67.704
+Coral Gables,64.248
+Boca Raton,63.008
+Frisco,57.504
+Lindenhurst,55.48
+Waukesha,54.5
+Bridgeton,52.41
+Mesquite,52.148
+Yucaipa,50.8
+La Quinta,46.32
+Hagerstown,43.8
+Bozeman,43.66
+Redwood City,41.904
+Grapevine,41.528
+Hickory,40.764
+Rogers,40.41
+Nashua,35.94
+Royal Oak,35.34
+Goldsboro,34.944
+Davis,32.4
+Greeley,30.352
+Waterloo,30.32
+Cuyahoga Falls,29.094
+Montebello,27.88
+Danbury,27.46
+Aberdeen,25.5
+Atlantic City,23.36
+Bullhead City,22.288
+Tinley Park,22.288
+North Miami,22.128
+Loveland,20.964
+Altoona,20.451
+Antioch,19.44
+Norfolk,17.43
+Portage,16.28
+Grand Island,15.96
+Margate,15.552
+New Brunswick,14.77
+Arlington Heights,14.112
+Chapel Hill,14.016
+Rock Hill,11.85
+Baytown,10.368
+Iowa City,9.99
+Romeoville,8.952
+Billings,8.288
+Port Orange,7.824
+Deer Park,6.924
+Missouri City,6.37
+Keller,6
+Layton,4.96
+Springdale,4.3
+San Luis Obispo,3.62
+Ormond Beach,2.808
+Pensacola,2.214
+Jupiter,2.064
+Elyria,1.824
+Abilene,1.392
